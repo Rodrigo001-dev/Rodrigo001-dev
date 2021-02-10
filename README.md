@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning JavaScript, TypeScript, Node.js, ReactJS, React-Native, Next.js, HTML, CSS, Design, Docker, Git, TDD, PostgresSQL, MongoDB, Prisma, Redux and GraphQL
 
 - 🤔 I’m looking for help with JavaScript, Docker, GraphQL, Python, Go and Java
