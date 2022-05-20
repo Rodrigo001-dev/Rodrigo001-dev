@@ -32,7 +32,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo001-de&show_icons=true&theme=vision-friendly-dark" alt="Rodrigo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo001-de&layout=compact&theme=vision-friendly-dark" alt="Rodrigo's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo001-de&theme=vision-friendly-dark" alt="Rodrigo's most languages"/>
 </p>
 
 <br><br>
