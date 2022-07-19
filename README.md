@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Rodrigo Rael</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="38">, I'm Rodrigo Rael</h1>
 
 
  - 🌱 I’m currently learning Next.js, Docker, TDD, Prisma and GraphQL
