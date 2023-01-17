@@ -25,6 +25,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
+ <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo001-dev&theme=dark"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo001-dev&show_icons=true&theme=vision-friendly-dark" alt="Rodrigo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo001-dev&layout=compact&theme=vision-friendly-dark" alt="Rodrigo's most languages"/>
 </p>
