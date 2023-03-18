@@ -3,7 +3,7 @@
 
  - 🌱 I’m currently learning Next.js, Docker, TDD, GraphQL and Go
 
- - 🤔 I’m looking for help with Python, Java
+ - 🤔 I’m looking for help with Python and Java
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
