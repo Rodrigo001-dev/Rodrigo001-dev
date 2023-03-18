@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="38">, I'm Rodrigo Rael</h1>
 
 
- - 🌱 I’m currently learning Next.js, Docker, TDD, Prisma and GraphQL
+ - 🌱 I’m currently learning Next.js, Docker, TDD, GraphQL and Go
 
- - 🤔 I’m looking for help with Python, Go and Java
+ - 🤔 I’m looking for help with Python, Java
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
